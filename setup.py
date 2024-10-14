@@ -37,7 +37,7 @@ setup(
         "click==7.1.2",  # Apr 28, 2020
         "colorama==0.4.0",  # Oct 10, 2018
         "Flask==2.0.2",  # May 12, 2021
-        "Flask-Compress==1.4.0",  # Jan 5, 2017
+        "Flask-Compress==1.12.0",  # Jan 5, 2017
         "Flask-SQLAlchemy==2.4.0",  # Apr 25, 2019
         "idna==2.7",  # Jun 11, 2018
         "itsdangerous==2.0.0",  # May 12, 2021
